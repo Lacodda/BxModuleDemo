@@ -1,9 +1,9 @@
 <?php
 
-    $MESS['LCST_TITLE'] = 'Çàãîëîâîê';
-    $MESS['LCST_TEXT'] = 'Îïèñàíèå';
-    $MESS['LCST_SOURCE'] = 'Ãèïåðññûëêà íà ïåðâîèñòî÷íèê';
-    $MESS['LCST_IMAGE'] = 'Ôîòî íîâîñòè';
-    $MESS['LCST_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-    $MESS['LCST_CREATED_BY'] = 'Ñîçäàë';
-    $MESS['LCST_MODIFIED_BY'] = 'Èçìåíèë';
+    $MESS['LCST_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+    $MESS['LCST_TEXT'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ';
+    $MESS['LCST_SOURCE'] = 'Ð“Ð¸Ð¿ÐµÑ€ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð¿ÐµÑ€Ð²Ð¾Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº';
+    $MESS['LCST_IMAGE'] = 'Ð¤Ð¾Ñ‚Ð¾ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸';
+    $MESS['LCST_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+    $MESS['LCST_CREATED_BY'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð»';
+    $MESS['LCST_MODIFIED_BY'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ð»';

@@ -2,10 +2,10 @@
 
     use Bitrix\Main\Loader;
     use Bitrix\Main\Localization\Loc;
-    use Lacodda\StaffTools\User\AdminInterface\UserEditHelper;
-    use Lacodda\StaffTools\User\AdminInterface\UserListHelper;
+    use Lacodda\BxModuleDemo\User\AdminInterface\UserEditHelper;
+    use Lacodda\BxModuleDemo\User\AdminInterface\UserListHelper;
 
-    if (!Loader::includeModule ('lacodda.stafftools'))
+    if (!Loader::includeModule ('lacodda.bxmodule-demo'))
     {
         return;
     }

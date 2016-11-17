@@ -1,6 +1,6 @@
 <?php
 
-    namespace Lacodda\StaffTools\User\AdminInterface;
+    namespace Lacodda\BxModuleDemo\User\AdminInterface;
 
     use Bitrix\Main\Localization\Loc;
     use Lacodda\BxModule\Helper\AdminInterface;
@@ -15,7 +15,7 @@
     Loc::loadMessages (__FILE__);
 
     /**
-     * Îïèñàíèå èíòåðôåéñà (òàáîê è ïîëåé) àäìèíêè íîâîñòåé.
+     * ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ° (Ñ‚Ð°Ð±Ð¾Ðº Ð¸ Ð¿Ð¾Ð»ÐµÐ¹) Ð°Ð´Ð¼Ð¸Ð½ÐºÐ¸ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹.
      *
      * {@inheritdoc}
      */
@@ -84,8 +84,8 @@
         public function helpers ()
         {
             return array (
-                '\Lacodda\StaffTools\User\AdminInterface\UserListHelper',
-                '\Lacodda\StaffTools\User\AdminInterface\UserEditHelper',
+                '\Lacodda\BxModuleDemo\User\AdminInterface\UserListHelper',
+                '\Lacodda\BxModuleDemo\User\AdminInterface\UserEditHelper',
             );
         }
     }

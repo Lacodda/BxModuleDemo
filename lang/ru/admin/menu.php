@@ -1,3 +1,3 @@
 <?php
 
-    $MESS['LCST_MODULE_NAME'] = 'Ñîòðóäíèêè';
+    $MESS['LCST_MODULE_NAME'] = 'Ð¡Ð¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸';

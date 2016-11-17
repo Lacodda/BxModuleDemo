@@ -23,7 +23,8 @@
     ],
     "require"          :{
         "php"                :">=5.4",
-        "composer/installers":"~1"
+        "composer/installers":"~1",
+        "lacodda/bxmodule"   :"dev-master"
     },
     "extra"            :{
         "installer-name":"lacodda.bxmodule-demo"

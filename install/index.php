@@ -4,14 +4,14 @@
     use Bitrix\Main\ModuleManager;
     use Bitrix\Main\Localization\Loc;
     use Bitrix\Main\Loader;
-    use Lacodda\StaffTools\User\UserTable;
+    use Lacodda\BxModuleDemo\User\UserTable;
 
     IncludeModuleLangFile (__FILE__);
 
-    class lacodda_stafftools
+    class lacodda_bxmoduledemo
         extends CModule
     {
-        var $MODULE_ID = 'lacodda.stafftools';
+        var $MODULE_ID = 'lacodda.bxmodule-demo';
 
         function __construct ()
         {

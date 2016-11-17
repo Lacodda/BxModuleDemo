@@ -1,16 +1,16 @@
 <?php
 
-    namespace Lacodda\StaffTools\User\AdminInterface;
+    namespace Lacodda\BxModuleDemo\User\AdminInterface;
 
     use Lacodda\BxModule\Helper\AdminEditHelper;
 
     /**
-     * Õåëïåð îïèñûâàåò èíòåðôåéñ, âûâîäÿùèé ôîðìó ðåäàêòèðîâàíèÿ íîâîñòè.
+     * Ð¥ÐµÐ»Ð¿ÐµÑ€ Ð¾Ð¿Ð¸ÑÑ‹Ð²Ð°ÐµÑ‚ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ, Ð²Ñ‹Ð²Ð¾Ð´ÑÑ‰Ð¸Ð¹ Ñ„Ð¾Ñ€Ð¼Ñƒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸.
      *
      * {@inheritdoc}
      */
     class UserEditHelper
         extends AdminEditHelper
     {
-        protected static $model = '\Lacodda\StaffTools\User\UserTable';
+        protected static $model = '\Lacodda\BxModuleDemo\User\UserTable';
     }

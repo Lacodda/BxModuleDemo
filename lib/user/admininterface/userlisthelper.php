@@ -1,16 +1,16 @@
 <?php
 
-    namespace Lacodda\StaffTools\User\AdminInterface;
+    namespace Lacodda\BxModuleDemo\User\AdminInterface;
 
     use Lacodda\BxModule\Helper\AdminListHelper;
 
     /**
-     * Õåëïåð îïèñûâàåò èíòåðôåéñ, âûâîäÿùèé ñïèñîê íîâîñòåé.
+     * Ð¥ÐµÐ»Ð¿ÐµÑ€ Ð¾Ð¿Ð¸ÑÑ‹Ð²Ð°ÐµÑ‚ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ, Ð²Ñ‹Ð²Ð¾Ð´ÑÑ‰Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹.
      *
      * {@inheritdoc}
      */
     class UserListHelper
         extends AdminListHelper
     {
-        protected static $model = '\Lacodda\StaffTools\User\UserTable';
+        protected static $model = '\Lacodda\BxModuleDemo\User\UserTable';
     }
