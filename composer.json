@@ -1,0 +1,32 @@
+{
+    "name"             :"lacodda/bxmodule-demo",
+    "description"      :"Demo module for CMS Bitrix",
+    "keywords"         :[
+        "bitrix",
+        "admin",
+        "module",
+        "demo",
+        "api"
+    ],
+    "type"             :"bitrix-module",
+    "license"          :"MIT",
+    "homepage"         :"https://github.com/Lacodda/bxmodule-demo",
+    "support"          :{
+        "issues":"https://github.com/Lacodda/bxmodule-demo/issues",
+        "source":"https://github.com/Lacodda/bxmodule-demo/"
+    },
+    "authors"          :[
+        {
+            "name" :"Kirill Lahtachev",
+            "email":"lahtachev@gmail.com"
+        }
+    ],
+    "require"          :{
+        "php"                :">=5.4",
+        "composer/installers":"~1"
+    },
+    "extra"            :{
+        "installer-name":"lacodda.bxmodule-demo"
+    },
+    "minimum-stability":"dev"
+}
