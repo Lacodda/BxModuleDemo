@@ -5,7 +5,7 @@
     use Lacodda\BxModuleDemo\User\AdminInterface\UserEditHelper;
     use Lacodda\BxModuleDemo\User\AdminInterface\UserListHelper;
 
-    if (!Loader::includeModule ('lacodda.bxmodule-demo'))
+    if (!Loader::includeModule ('lacodda.bxmoduledemo'))
     {
         return;
     }

@@ -27,7 +27,7 @@
         "lacodda/bxmodule"   :"dev-master"
     },
     "extra"            :{
-        "installer-name":"lacodda.bxmodule-demo"
+        "installer-name":"lacodda.bxmoduledemo"
     },
     "minimum-stability":"dev"
 }

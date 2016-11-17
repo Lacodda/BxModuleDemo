@@ -11,7 +11,7 @@
     class lacodda_bxmoduledemo
         extends CModule
     {
-        var $MODULE_ID = 'lacodda.bxmodule-demo';
+        var $MODULE_ID = 'lacodda.bxmoduledemo';
 
         function __construct ()
         {
